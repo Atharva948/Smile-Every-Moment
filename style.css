@@ -15,7 +15,7 @@ h2{
     justify-content: center;
 }
 
-.header{
+header{
     background-image: linear-gradient(rgb(255, 196, 0),red);
     display: flex;
     justify-content: space-evenly;
